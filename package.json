@@ -1,5 +1,5 @@
 {
-"name": "Bill-bot",
+"name": "Fenix-Data-Bot",
 "version": "1.8.5",
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/Aldair013/Bill-bot",
+"homepage": "https://github.com/Aldair-ld/Fenix-Data-Bot",
 "author": {
 "name": "Aldair013" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Aldair013/Bill-bot.git" },
+"url": "git+https://github.com/Aldair-ld/Fenix-Data-Bot.git" },
 
 "bugs": {
-"url": "https://github.com/Aldair013/Bill-bot/issues" },
+"url": "https://github.com/Aldair-ld/Fenix-Data-Bot/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.6.0",
