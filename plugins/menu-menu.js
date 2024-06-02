@@ -1,4 +1,4 @@
-/*import fs from 'fs'
+import fs from 'fs'
 import moment from 'moment-timezone'
 import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
@@ -87,7 +87,7 @@ let menu = `${lenguajeCD['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 
 ╭━─━─━─━─≪✠≫─━─━─━─━╮
 ├┈‧͙⁺˚*･༓☾　　☽༓･*˚⁺‧͙ 
-├┈ 𝒃𝒚 𝑾𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄 
+├┈ @ALDAIR
 ✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
 ├┈ ↷  ʜᴏʀᴀʀɪᴏ
 ├• ✐; ₊˚✦୧︰  .
@@ -146,7 +146,7 @@ let menu = `${lenguajeCD['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ╰──── +˚💎 Diamantes:.
 ˙·.˙··.˙·.┊ *°*+↷❯ ${limit}
 ˙·.˙˙·.˙·.╰──────〰─◠─〰─◠─
-╰──── +˚👾 *FantasyCoins* :.
+╰──── +˚👾 *FenixCoins* :.
 ˙·.˙··.˙·.┊ *°*+↷❯ ${money}
 ˙·.˙˙·.˙·.╰──────〰─◠─〰─◠─
 ╰──── +˚🪙 Tokens:.
@@ -714,4 +714,4 @@ function clockString(ms) {
 let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
 let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
 let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
-return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')}*/
+return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')}
