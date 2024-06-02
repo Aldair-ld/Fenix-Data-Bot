@@ -12,12 +12,12 @@ let str = `*ESTOS SON LOS GRUPOS OFICIALES*
 
 ⏤͟͟͞͞★꙲⃝͟🌹 ─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🌻❈┉━━━━─
 
-*BILL -BOT*
+*Fenix - Bot*
 *https://whatsapp.com/channel/0029VaWZeyJJENxvi5Q6OQ2q*
 
 ⏤͟͟͞͞★꙲⃝͟🌹 ─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🌻❈┉━━━━─
 
-*BILL - BOT*
+*Fenix - Bot*
 ⏤͟͟͞͞★꙲⃝͟🌹 *https://chat.whatsapp.com/CZHOvEJpekOH6qMfwJXTXz*
 
 ─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🌻❈┉━━━━─`
