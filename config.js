@@ -124,14 +124,14 @@ global.gt = "𝙵𝙴𝙽𝙸𝚇 - 𝙳𝙰𝚃𝙰 - 𝙱𝙾𝚃"
 global.canalofc = "https://whatsapp.com/channel/0029VaWZeyJJENxvi5Q6OQ2q"
 global.yt = "https://youtube.com/@wilmer.oficial"
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
-global.ig = "https://www.instagram.com/cmwilmer4"
+global.ig = "https://www.instagram.com/aldair_dki"
 global.md = "https://github.com/Aldair013/Bill-Bot"
 global.fb = "https://www.facebook.com/groups/1039865800178898/?ref=share"
-global.tk = "https://www.tiktok.com/@wilsmac4"
-global.ths = "https://www.threads.net/@cmwilmer4"
+global.tk = "https://www.tiktok.com/@wac4"
+global.ths = "https://www.threads.net/@cm4"
 global.paypal = 'https://paypal.me/'
 global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
-global.bot = 'wa.me/50250101139'
+global.bot = 'wa.me/51925015528'
 
 global.nna = 'https://www.atom.bio/Wilsmac/' // Cuentas
 global.nn2 = 'https://t.me/' // 
